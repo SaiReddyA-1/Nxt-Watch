@@ -5,22 +5,14 @@ In this assignment let's build an **Nxt Watch** by applying the concepts we have
 Deployed Application: [Nxt Watch](https://sai0nxtwatch.ccbp.tech/)
 
 **Success View** <br/>
+These are not playing. Redirect the to another tab to view these videos.
 
-<div style="text-align: center;">
-     <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+**Success View**
+[Watch Video](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output.mp4)
 
-**Failure View** <br/>
+**Failure View**
+[Watch Video](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output.mp4)
 
-<div style="text-align: center;">
-    <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
 
 ### Design Files
 
